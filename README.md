@@ -1,0 +1,1 @@
+# meraki-msp-license-check
