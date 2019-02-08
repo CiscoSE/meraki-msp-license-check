@@ -9,7 +9,6 @@ Enable API access and obtain an API key to allow access to the organizations. Fo
 Example:
 
 	Enter your Dashboard API key: <API_KEY>
-  	[{'id': 533665, 'name': 'Scott'}, {'id': 653307, 'name': 'Home'}]
   	1: 533665: Scott
   	2: 653307: Home
   	Select an org: 1
